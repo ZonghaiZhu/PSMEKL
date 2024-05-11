@@ -1,0 +1,12 @@
+lr:0.01
+weight_decay:0.005
+emb_dim:512.
+emb_layer:1.
+gnn_layer:2.
+epoch_time:0.0011
+train_score:0.9883
+train_std:0.0107
+valid_score:0.8276
+valid_std:0.0104
+test_score:0.8176
+test_std:0.0128
